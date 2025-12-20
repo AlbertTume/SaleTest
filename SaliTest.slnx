@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SaliTest.Api/SaliTest.Api.csproj" />
+  <Project Path="SaliTest.Application/SaliTest.Application.csproj" />
+  <Project Path="SaliTest.Domain/SaliTest.Domain.csproj" />
+  <Project Path="SaliTest.Infrastructure/SaliTest.Infrastructure.csproj" />
+</Solution>

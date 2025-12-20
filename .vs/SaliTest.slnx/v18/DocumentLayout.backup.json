@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66726E-BA51-4DA8-9CB2-A3FF33E2C6CE}|SaliTest.Api\\SaliTest.Api.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E66726E-BA51-4DA8-9CB2-A3FF33E2C6CE}|SaliTest.Api\\SaliTest.Api.csproj|solutionrelative:salitest.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66726E-BA51-4DA8-9CB2-A3FF33E2C6CE}|SaliTest.Api\\SaliTest.Api.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E66726E-BA51-4DA8-9CB2-A3FF33E2C6CE}|SaliTest.Api\\SaliTest.Api.csproj|solutionrelative:salitest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66726E-BA51-4DA8-9CB2-A3FF33E2C6CE}|SaliTest.Api\\SaliTest.Api.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E66726E-BA51-4DA8-9CB2-A3FF33E2C6CE}|SaliTest.Api\\SaliTest.Api.csproj|solutionrelative:salitest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC68138D-0608-40EC-A926-AB077DBFB038}|SaliTest.Infrastructure\\SaliTest.Infrastructure.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC68138D-0608-40EC-A926-AB077DBFB038}|SaliTest.Infrastructure\\SaliTest.Infrastructure.csproj|solutionrelative:salitest.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A93DD6-6285-422C-8B75-B8E511F13E0D}|SaliTest.Application\\SaliTest.Application.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A93DD6-6285-422C-8B75-B8E511F13E0D}|SaliTest.Application\\SaliTest.Application.csproj|solutionrelative:salitest.application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A93DD6-6285-422C-8B75-B8E511F13E0D}|SaliTest.Application\\SaliTest.Application.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.application\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A93DD6-6285-422C-8B75-B8E511F13E0D}|SaliTest.Application\\SaliTest.Application.csproj|solutionrelative:salitest.application\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A93DD6-6285-422C-8B75-B8E511F13E0D}|SaliTest.Application\\SaliTest.Application.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.application\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A93DD6-6285-422C-8B75-B8E511F13E0D}|SaliTest.Application\\SaliTest.Application.csproj|solutionrelative:salitest.application\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A93DD6-6285-422C-8B75-B8E511F13E0D}|SaliTest.Application\\SaliTest.Application.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A93DD6-6285-422C-8B75-B8E511F13E0D}|SaliTest.Application\\SaliTest.Application.csproj|solutionrelative:salitest.application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B0EB5-9BA9-478A-A9AB-BBB8B767C276}|SaliTest.Domain\\SaliTest.Domain.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B0EB5-9BA9-478A-A9AB-BBB8B767C276}|SaliTest.Domain\\SaliTest.Domain.csproj|solutionrelative:salitest.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B0EB5-9BA9-478A-A9AB-BBB8B767C276}|SaliTest.Domain\\SaliTest.Domain.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B0EB5-9BA9-478A-A9AB-BBB8B767C276}|SaliTest.Domain\\SaliTest.Domain.csproj|solutionrelative:salitest.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66726E-BA51-4DA8-9CB2-A3FF33E2C6CE}|SaliTest.Api\\SaliTest.Api.csproj|d:\\01. albert\\desarrollo\\projects\\dotnet\\salitest\\salitest.api\\salitest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E66726E-BA51-4DA8-9CB2-A3FF33E2C6CE}|SaliTest.Api\\SaliTest.Api.csproj|solutionrelative:salitest.api\\salitest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SaliTest.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SaliTest.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:47:28.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SaliTest.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "SaliTest.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:45:53.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SaliTest.Application\\Mapper\\MappingProfile.cs",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "SaliTest.Application\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:45:25.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\DTOs\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "SaliTest.Application\\DTOs\\ProductoDto.cs",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\DTOs\\ProductoDto.cs",
+              "RelativeToolTip": "SaliTest.Application\\DTOs\\ProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:44:41.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "SaliTest.Application\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "SaliTest.Application\\DTOs\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:44:28.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "SaliTest.Application\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "SaliTest.Application\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:39:37.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SaliTest.Api\\appsettings.json",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Api\\appsettings.json",
+              "RelativeToolTip": "SaliTest.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-19T21:28:32.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SaliTest.Api\\Program.cs",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Api\\Program.cs",
+              "RelativeToolTip": "SaliTest.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:25:18.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "SaliTest.Domain\\Entities\\Producto.cs",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "SaliTest.Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:44:11.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "SaliTest.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "SaliTest.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:44:06.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaliTest.Api",
+              "DocumentMoniker": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Api\\SaliTest.Api.csproj",
+              "RelativeDocumentMoniker": "SaliTest.Api\\SaliTest.Api.csproj",
+              "ToolTip": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Api\\SaliTest.Api.csproj",
+              "RelativeToolTip": "SaliTest.Api\\SaliTest.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T21:22:59.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

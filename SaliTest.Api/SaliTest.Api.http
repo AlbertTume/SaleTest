@@ -1,0 +1,6 @@
+@SaliTest.Api_HostAddress = http://localhost:5276
+
+GET {{SaliTest.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
