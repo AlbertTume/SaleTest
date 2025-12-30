@@ -1,0 +1,16 @@
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/bin/Debug/net10.0/SaliTest.Application.deps.json
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/bin/Debug/net10.0/SaliTest.Application.dll
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/bin/Debug/net10.0/SaliTest.Application.pdb
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/bin/Debug/net10.0/SaliTest.Domain.dll
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/bin/Debug/net10.0/SaliTest.Domain.pdb
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/SaliTest.Application.csproj.AssemblyReference.cache
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/SaliTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/SaliTest.Application.AssemblyInfoInputs.cache
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/SaliTest.Application.AssemblyInfo.cs
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/SaliTest.Application.csproj.CoreCompileInputs.cache
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/SaliTest.Application.sourcelink.json
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/SaliTest.AB24BAE0.Up2Date
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/SaliTest.Application.dll
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/refint/SaliTest.Application.dll
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/SaliTest.Application.pdb
+/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/Debug/net10.0/ref/SaliTest.Application.dll

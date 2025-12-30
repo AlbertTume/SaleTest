@@ -1,12 +1,10 @@
 ﻿using SaliTest.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace SaliTest.Application.Interfaces
 {
-    public interface IProductoRepository
+    public interface IProductRepository
     {
-        Task<IEnumerable<Producto>> GetAllProductosAsync();
+        Task<IEnumerable<Product>?> GetAllProductsAsync();
+        Task<Product?> GetProductByIdAsync(long id);
     }
 }

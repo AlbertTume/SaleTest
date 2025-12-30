@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\SaliTest.Application.csproj": {}
+    "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/SaliTest.Application.csproj": {}
   },
   "projects": {
-    "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\SaliTest.Application.csproj": {
+    "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/SaliTest.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\SaliTest.Application.csproj",
+        "projectUniqueName": "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/SaliTest.Application.csproj",
         "projectName": "SaliTest.Application",
-        "projectPath": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\SaliTest.Application.csproj",
-        "packagesPath": "C:\\Users\\alem_\\.nuget\\packages\\",
-        "outputPath": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Application\\obj\\",
+        "projectPath": "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/SaliTest.Application.csproj",
+        "packagesPath": "/Users/alberttume/.nuget/packages/",
+        "outputPath": "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\alem_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/alberttume/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Domain\\SaliTest.Domain.csproj": {
-                "projectPath": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Domain\\SaliTest.Domain.csproj"
+              "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Domain/SaliTest.Domain.csproj": {
+                "projectPath": "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Domain/SaliTest.Domain.csproj"
               }
             }
           }
@@ -79,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -357,28 +351,22 @@
         }
       }
     },
-    "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Domain\\SaliTest.Domain.csproj": {
+    "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Domain/SaliTest.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Domain\\SaliTest.Domain.csproj",
+        "projectUniqueName": "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Domain/SaliTest.Domain.csproj",
         "projectName": "SaliTest.Domain",
-        "projectPath": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Domain\\SaliTest.Domain.csproj",
-        "packagesPath": "C:\\Users\\alem_\\.nuget\\packages\\",
-        "outputPath": "D:\\01. Albert\\Desarrollo\\Projects\\dotNet\\SaliTest\\SaliTest.Domain\\obj\\",
+        "projectPath": "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Domain/SaliTest.Domain.csproj",
+        "packagesPath": "/Users/alberttume/.nuget/packages/",
+        "outputPath": "/Volumes/MacMini ED/projects/DotNet/SaleTest/SaliTest.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\alem_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/alberttume/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -418,7 +406,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
